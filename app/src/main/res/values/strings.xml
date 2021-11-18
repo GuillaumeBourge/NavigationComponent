@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_home_details">Home Details</string>
+    <string name="title_dashboard_details">Dashboard Details</string>
+    <string name="title_notifications_details">Notifications Details</string>
+</resources>
